@@ -37,7 +37,7 @@ To use this workflow, ensure you have the following:
 - Access to MongoDB clusters containing BONK transaction data.
 
 ## How to Use
-- Clone this repository:git clone https://github.com/your-username/bonk-transactions-analysis.git
+- Clone this repository
 - Open the workflow file (Bonk_Project3_Team9.knwf) in KNIME Analytics Platform.
 - Configure the MongoDB Connector nodes with your MongoDB credentials.
 - Execute the workflow to generate insights and visualizations.
